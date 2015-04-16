@@ -1,8 +1,8 @@
 set guioptions-=T
 " set guifont=Menlo:h16
 set guifont=Source\ Code\ Pro:h16
-set background=dark
 colorscheme molokai
+set background=dark
 " colorscheme solarized
 set showtabline=2
 set tabpagemax=20

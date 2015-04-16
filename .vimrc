@@ -35,6 +35,11 @@ filetype indent on
 
 syntax on
 
+" let g:molokai_original=1
+colorscheme molokai
+set background=light
+set background=dark
+
 " colorscheme morning
 
 map <F8> :nohlsearch<CR>:pclose<CR>
