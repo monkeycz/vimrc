@@ -1,9 +1,9 @@
 mkdir -p ~/.vim/bundle
 cd ~/.vim/bundle
-git clone git://github.com/tpope/vim-pathogen
-git clone git://github.com/tomasr/molokai
-git clone git://github.com/altercation/vim-colors-solarized
-git clone git://github.com/brandonbloom/vim-proto
-git clone git://github.com/majutsushi/tagbar
-git clone git://github.com/scrooloose/nerdtree
-git clone git://github.com/jistr/vim-nerdtree-tabs
+git clone --depth=1 https://github.com/tpope/vim-pathogen.git
+git clone --depth=1 https://github.com/tomasr/molokai.git
+git clone --depth=1 https://github.com/altercation/vim-colors-solarized.git
+git clone --depth=1 https://github.com/brandonbloom/vim-proto.git
+git clone --depth=1 https://github.com/majutsushi/tagbar.git
+git clone --depth=1 https://github.com/scrooloose/nerdtree.git
+git clone --depth=1 https://github.com/jistr/vim-nerdtree-tabs.git
