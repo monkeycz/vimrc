@@ -36,7 +36,8 @@ filetype indent on
 syntax on
 
 " let g:molokai_original=1
-colorscheme molokai
+" colorscheme molokai
+colorscheme solarized
 set background=light
 set background=dark
 
